@@ -5,20 +5,21 @@ import java.util.logging.Logger;
 
 public class MensajeConcreto {
 
-    private String name = "";
-
-    public MensajeConcreto(String name) {
-        this.name = name;
+    private static final Logger logger = Logger.getLogger(MensajeConcreto.class.getName());
+    
+    private String name="";
+    
+    public MensajeConcreto(){
+        this.name="Nombre";
+        logger.log(Level.INFO, "Se ejecuta el constructor");
     }
-
-    public MensajeConcreto() {
-        this.name = "Nombre";
-        Logger.getLogger(Despedida.class.getName()).
-                log(Level.INFO, "Se ejecuta constructor...");
+    
+    public MensajeConcreto(String name){
+        this.name=name;
     }
-
-    public void imprimir() {
-        Logger.getLogger(Despedida.class.getName()).
-                log(Level.INFO, "{0} :Mensaje...",name);
+    
+    public void imprimir(){
+        logger.log(Level.INFO, "{0}:Mensaje...", name);
     }
+    
 }

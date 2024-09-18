@@ -1,2 +1,14 @@
-/home/isaias/NetBeansProjects/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/MensajeConcreto.java
-/home/isaias/NetBeansProjects/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/TPCSWPractica01.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/MensajeConcreto.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/dao/EmpleadoPojo.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/Saludo.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/IMensaje.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/Despedida.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/dao/IDAOGeneral.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/dao/DAOEmpleadoConcreto.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/Mensaje.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/dao/ConexionDB.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/TPCSWPractica01.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/Despedida2.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/dao/DAOEmpleado.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/Saludo2.java
+/home/habacuc/projects/tec/TPCSW-Practica01/src/main/java/org/uv/tpcsw/practica01/Singleton.java

@@ -7,7 +7,7 @@ public class Despedida2 implements IMensaje {
 
     @Override
     public void imprimir() {
-        Logger.getLogger(Despedida.class.getName()).
-                log(Level.INFO, "Adios Mundo...");           }
+        Logger.getLogger(Despedida2.class.getName()).log(Level.INFO, null, "Adiossss");
+    }
     
 }

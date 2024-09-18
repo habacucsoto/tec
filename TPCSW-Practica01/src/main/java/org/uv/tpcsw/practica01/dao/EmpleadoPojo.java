@@ -1,10 +1,11 @@
 package org.uv.tpcsw.practica01.dao;
 
 public class EmpleadoPojo {
- private String clave;
- private String nombre;
- private String direccion;
- private String telefono;
+
+    private String clave;
+    private String nombre;
+    private String direccion;
+    private String telefono;
 
     public String getClave() {
         return clave;
@@ -37,5 +38,5 @@ public class EmpleadoPojo {
     public void setTelefono(String telefono) {
         this.telefono = telefono;
     }
- 
+  
 }

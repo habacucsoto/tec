@@ -7,9 +7,8 @@ public class Despedida extends Mensaje {
 
     @Override
     public void msg() {
-
-        Logger.getLogger(Despedida.class.getName()).
-                log(Level.INFO, "Adios Mundo...");        
+        Logger.getLogger(Despedida.class.getName())
+                .log(Level.SEVERE, null, "Adios mundo...");
     }
     
 }
