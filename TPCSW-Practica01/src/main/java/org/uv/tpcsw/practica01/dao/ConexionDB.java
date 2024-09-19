@@ -37,6 +37,10 @@ public class ConexionDB {
         }
     }   
     
+    public boolean execute(TransactionDB transaction){
+        return transaction.execute(con);
+    }
+    
     public boolean execute(String sql){
         Statement stm = null;
         
